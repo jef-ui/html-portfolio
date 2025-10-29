@@ -5,8 +5,8 @@ body {
 
 .container {
   display: flex;
-  justify-content: center; /* horizontal center */
-  align-items: center;     /* vertical center */
+  justify-content: center; 
+  align-items: center;    
 }
 
 h2 {
@@ -17,12 +17,12 @@ h2 {
 
 h3 {
   display: flex;
-  justify-content: center; /* horizontal center */
-  align-items: center;     /* vertical center */
+  justify-content: center; 
+  align-items: center;     
 }
 
 .p-container {
   display: flex;
-  justify-content: center; /* horizontal center */
-  align-items: center;     /* vertical center */
+  justify-content: center; 
+  align-items: center;    
 }
