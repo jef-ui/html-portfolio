@@ -45,7 +45,23 @@ hr {
   border: none;
   height: 3px;
   background-color: #393E46;
-
 }
+
+.nav-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: none;
+  gap: 20px;
+}
+
+.img-project {
+  height: 200px;
+  border-radius: 1rem;
+  width: 400px;
+  margin-top: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
 
 
