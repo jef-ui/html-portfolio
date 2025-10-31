@@ -14,6 +14,9 @@ body {
   align-items: center;    
 }
 
+b {
+  color: #DFD0B8;
+}
 h2 {
   display: flex;
   color: #DFD0B8;
