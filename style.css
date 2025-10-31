@@ -62,12 +62,19 @@ hr {
   width: 400px;
   margin-top: 10px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-
 }
 
 a {
   text-decoration: none;
   color: #948979;
+}
+
+.img-prototype {
+  height: 200px;
+  border-radius: 1rem;
+  width: 300px;
+  margin-top: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 
