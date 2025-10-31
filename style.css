@@ -1,3 +1,8 @@
+* {
+  background-color: #222831;
+  color: whitesmoke;
+}
+
 body {
         font-family: Times New Roman;
         margin: 1rem; 
@@ -26,3 +31,13 @@ h3 {
   justify-content: center; 
   align-items: center;    
 }
+
+h2 {
+  color: #DFD0B8;
+}
+
+h4 {
+  color:#DFD0B8;
+}
+
+
