@@ -58,9 +58,10 @@ hr {
   list-style-type: none;
   display: flex;
   justify-content: center;
-  align-items: none;
-  gap: 20px;
+  align-items: center;
+  gap: 10px;
   font-weight: bold;
+  padding: 0;
 }
 
 .img-project {
@@ -74,7 +75,7 @@ hr {
 a {
   text-decoration: none;
   color: #948979;
-  font-size: 12px;
+  font-size: 10px
 }
 
 .img-prototype {
