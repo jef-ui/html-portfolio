@@ -6,7 +6,6 @@
 
 body {
         font-family: "Inter", sans-serif;
-        font-weight: 100;
         margin: 1rem; 
     }
 
@@ -21,6 +20,7 @@ b {
   color: #DFD0B8;
 }
 h2 {
+  font-family: 'Times New Roman', Times, serif;
   font-size: 32px;
   display: flex;
   color: #DFD0B8;
@@ -59,7 +59,7 @@ hr {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
   font-weight: bold;
   padding: 0;
 }
